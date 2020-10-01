@@ -4,18 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-   
-</head>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
 <Body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">Jonathan Gilbert</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+    <!--I need to the nav items to right side of page-->
     <div class="navbar-collapse collapse show" id="navbarSupportedContent">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right" id="nav-grp">
         <li class="nav-item">
           <a class="nav-link" href="index.html">About</a>
         </li>
@@ -31,20 +34,23 @@
   <br>
 
   <div class="container">
+    
+    <!--<div class="container-sm">100% wide until small breakpoint</div>
+    <div class="container-md">100% wide until medium breakpoint</div>
+    <div class="container-lg">100% wide until large breakpoint</div>
+    <div class="container-xl">100% wide until extra large breakpoint</div>
+    Do I need to add this in to make responsive-->
+
       <div class="row">
         <div class="col">
-          <h2>About Me</h2>
+          <h3>About Me</h3>
         </div>
       </div>
       <br>
       <div class="row">
         <div class="col">
-          <img src="http://placehold.it/200x200" alt="Image Place Holder" class="img-thumbnail">
-        </div>
-        <div class="col-6">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ex iusto pariatur. 
-          Cum illum, inventore dolores aliquid molestiae soluta reiciendis sapiente excepturi 
-          autem voluptatem, sed neque vero repellat accusantium dolorum.
+          <img src="Assets/0160fb5938535fe168e09c171c8bd634300bf44cb4.jpg" alt="Picture of Jonathan" class="img-thumbnail" id="homepage-image">
+         <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit corporis sit reprehenderit ipsum expedita fugit consectetur voluptatum quam explicabo minima assumenda, maxime non veniam eum aperiam, sunt, nihil fuga id.Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit corporis sit reprehenderit ipsum expedita fugit consectetur voluptatum quam explicabo minima assumenda, maxime non veniam eum aperiam, sunt, nihil fuga idLorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit corporis sit reprehenderit ipsum expedita fugit consectetur voluptatum quam explicabo minima assumenda, maxime non veniam eum aperiam, sunt, nihil fuga id</P>
         </div>
       </div>
     </div>
@@ -52,7 +58,8 @@
   </div>
     
 </body> 
-<footer>
-  
-</footer>
+<!--footer>
+  where do I pull the footer information from
+</footer>-->
+<!--do I need a different .css for each HTML-->
 </html>
