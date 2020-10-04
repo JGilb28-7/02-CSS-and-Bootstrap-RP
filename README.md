@@ -5,13 +5,13 @@
 #GitHub Repo Link: https://github.com/JGilb28-7/01-HTML-Git-CSS-02-Homework.git
 
 # Website Images:
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-1.PNG
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-2.PNG
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-3.png
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\Contact_me_img-1.png
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\Contact_me_img-2.png
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\My_Portfolio_img-1.png
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\My_Portfolio_img-2.png
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-1.PNG</img>
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-2.PNG</img>
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-3.png</img>
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\Contact_me_img-1.png</img>
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\Contact_me_img-2.png</img>
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\My_Portfolio_img-1.png</img>
+<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\My_Portfolio_img-2.png</img>
 
 
 ## Completed Tasks
