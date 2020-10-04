@@ -5,15 +5,15 @@
 #GitHub Repo Link: https://github.com/JGilb28-7/01-HTML-Git-CSS-02-Homework.git
 
 # Website Images:
-*Assets\About_me_img-1.PNG
 
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-2.PNG</img>
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\About_me_img-3.png</img>
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\Contact_me_img-1.png</img>
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\Contact_me_img-2.png</img>
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\My_Portfolio_img-1.png</img>
-<img>C:\Users\jonat\UNHCodingBootCamp\02-CSS-and-Bootstrap-RP\Assets\My_Portfolio_img-2.png</img>
-
+![image 1](Assets\About_me_img-1.PNG "1")
+![image 2](Assets\About_me_img-2.PNG "1")
+![image 3](Assets\About_me_img-3.png "1")
+![image 4](Assets\Contact_me_img-1.png "1")
+![image 5](Assets\Contact_me_img-2.png "1")
+![image 6](Assets\My_Portfolio_img-1.png "1")
+![image 7](Assets\My_Portfolio_img-2.png "1")
+![image 8](Assets\0160fb5938535fe168e09c171c8bd634300bf44cb4.jpg"JSG Photo")
 
 ## Completed Tasks
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
